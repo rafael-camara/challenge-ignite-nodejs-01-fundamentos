@@ -50,8 +50,7 @@ O import é realizado utilizando a lib [csv-parse](https://csv.js.org/)
 
 ## Screenshots
 
-![Screenshot](https://github.com/rafael-camara/challenge-ignite-nodejs-01-fundamentos/main/.github/screenshot.png)
-</p>
+![Screenshot](https://raw.githubusercontent.com/rafael-camara/challenge-ignite-nodejs-01-fundamentos/main/.github/images/screenshot.png)
 
 ## 📝 Licença
 
